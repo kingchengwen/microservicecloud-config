@@ -12,4 +12,4 @@ spring:
 spring:
     profils: test
     application:
-        name: microservicecloud-config-dev     
+        name: microservicecloud-config-test
